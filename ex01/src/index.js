@@ -1,10 +1,5 @@
-function myTrueBoolean(){
-    var num = 2;
-    if(num = 2){
-        return true;
-    } else {
-        return false;
-    }
+function myTrueBoolean(a,b){
+    return (5 == 5);
 }
 
 console.log(myTrueBoolean());
