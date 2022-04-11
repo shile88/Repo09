@@ -1,4 +1,4 @@
-function myTrueBoolean(a,b){
+function myTrueBoolean(){
     return (5 == 5);
 }
 

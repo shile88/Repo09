@@ -1,10 +1,10 @@
 function logicOrder(num){
     if(num < 50){
-        return "Less then 50";
+        return "Less than 50";
     } else if (num < 100){
-    return "Less then 100";
+    return "Less than 100";
     } else if (num >= 100){
-        return "Greater then or equal to 100";
+        return "Greater than or equal to 100";
     }
 }
 
